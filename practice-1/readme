@@ -1,0 +1,14 @@
+Сам код выводит 
+Bad: {arr[i]}
+Bad: {arr[i]}
+Bad: {arr[i]}
+Bad: {arr[i]}
+
+добавил $ чтобы было формотирование переменых
+теперь выводит
+Bad: undefined
+Bad: undefined
+Bad: undefined
+Bad: undefined
+
+вместо var поставил let так как i должен быть статичной пременой 
